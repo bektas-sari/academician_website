@@ -1,7 +1,8 @@
-Academic Personal Website
-This repository contains a static, responsive and modern personal website template for an academic. The site is designed to be deployed easily to any static web host (e.g. GitHub Pages, Netlify or a university server) and provides a clean, mobile‑friendly way to present information about a researcher or lecturer.
+### Academic Personal Website
+This repository contains a static, responsive and modern personal website template for an academic. 
+The site is designed to be deployed easily to any static web host (e.g. GitHub Pages, Netlify or a university server) and provides a clean, mobile‑friendly way to present information about a researcher or lecturer.
 
-Features
+## Features
 Single‑page layout – All sections (Home, About, Publications, Research Areas, Education and Contact) live on one page with smooth scrolling navigation.
 
 Responsive design – The layout adapts gracefully to desktop, tablet and mobile devices. A collapsible hamburger menu appears on smaller screens.
@@ -14,7 +15,7 @@ Animation effects – Sections slide smoothly into view as the user scrolls, tha
 
 Easy customisation – All of the content areas contain placeholder text. You can replace them with your own biography, publication list, research fields, education history and contact details by editing index.html.
 
-File structure
+## File structure
 bash
 Kopyala
 Düzenle
